@@ -1,0 +1,11 @@
+[package]
+name = "Weather_Api_Rust"
+version = "0.1.0"
+authors = ["Umer MiB <mohammadumer704@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+async-std = "1"
+surf = "1"
